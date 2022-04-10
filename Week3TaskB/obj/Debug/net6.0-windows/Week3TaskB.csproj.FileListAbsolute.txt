@@ -1,0 +1,17 @@
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\obj\Debug\net6.0-windows\Week3TaskB.csproj.AssemblyReference.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\obj\Debug\net6.0-windows\Week3TaskB.Form1.resources
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\obj\Debug\net6.0-windows\Week3TaskB.csproj.GenerateResource.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\obj\Debug\net6.0-windows\Week3TaskB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\obj\Debug\net6.0-windows\Week3TaskB.AssemblyInfoInputs.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\obj\Debug\net6.0-windows\Week3TaskB.AssemblyInfo.cs
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\obj\Debug\net6.0-windows\Week3TaskB.csproj.CoreCompileInputs.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\bin\Debug\net6.0-windows\Week3TaskB.exe
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\bin\Debug\net6.0-windows\Week3TaskB.deps.json
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\bin\Debug\net6.0-windows\Week3TaskB.runtimeconfig.json
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\bin\Debug\net6.0-windows\Week3TaskB.dll
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\bin\Debug\net6.0-windows\ref\Week3TaskB.dll
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\bin\Debug\net6.0-windows\Week3TaskB.pdb
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\obj\Debug\net6.0-windows\Week3TaskB.dll
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\obj\Debug\net6.0-windows\ref\Week3TaskB.dll
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\obj\Debug\net6.0-windows\Week3TaskB.pdb
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\Week3TaskB\obj\Debug\net6.0-windows\Week3TaskB.genruntimeconfig.cache
