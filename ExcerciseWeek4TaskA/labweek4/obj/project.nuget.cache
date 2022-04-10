@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qEGam3pH7n8Vm/8HrL2+LPnEdU6oLSJtCroIiqZs4rXI9TM1/S+vhnB2e7llfqBcgl9wsEbqvoi6H8/TswFyrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murta\\OneDrive - MMU\\ALG and Data Structure\\Assesment\\ExcerciseWeek4TaskA\\labweek4\\labweek4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\murta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\murta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\murta\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

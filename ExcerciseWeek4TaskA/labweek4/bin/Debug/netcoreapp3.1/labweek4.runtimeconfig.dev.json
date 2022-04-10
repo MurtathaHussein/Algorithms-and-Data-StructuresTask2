@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\murta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\murta\\.nuget\\packages"
+    ]
+  }
+}

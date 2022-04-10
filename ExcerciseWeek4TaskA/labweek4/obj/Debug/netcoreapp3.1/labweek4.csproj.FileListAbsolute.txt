@@ -1,0 +1,41 @@
+O:\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.csprojAssemblyReference.cache
+O:\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.AssemblyInfoInputs.cache
+O:\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.AssemblyInfo.cs
+O:\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.csproj.CoreCompileInputs.cache
+O:\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.exe
+O:\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.deps.json
+O:\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.runtimeconfig.json
+O:\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.runtimeconfig.dev.json
+O:\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.dll
+O:\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.pdb
+O:\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.dll
+O:\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.pdb
+O:\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.genruntimeconfig.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.exe
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.deps.json
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.runtimeconfig.json
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.runtimeconfig.dev.json
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.dll
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\bin\Debug\netcoreapp3.1\labweek4.pdb
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.csproj.AssemblyReference.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.AssemblyInfoInputs.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.AssemblyInfo.cs
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.csproj.CoreCompileInputs.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.dll
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.pdb
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Week4\labweek4\labweek4\obj\Debug\netcoreapp3.1\labweek4.genruntimeconfig.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\bin\Debug\netcoreapp3.1\labweek4.exe
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\bin\Debug\netcoreapp3.1\labweek4.deps.json
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\bin\Debug\netcoreapp3.1\labweek4.runtimeconfig.json
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\bin\Debug\netcoreapp3.1\labweek4.runtimeconfig.dev.json
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\bin\Debug\netcoreapp3.1\labweek4.dll
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\bin\Debug\netcoreapp3.1\labweek4.pdb
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\obj\Debug\netcoreapp3.1\labweek4.csproj.AssemblyReference.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\obj\Debug\netcoreapp3.1\labweek4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\obj\Debug\netcoreapp3.1\labweek4.AssemblyInfoInputs.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\obj\Debug\netcoreapp3.1\labweek4.AssemblyInfo.cs
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\obj\Debug\netcoreapp3.1\labweek4.csproj.CoreCompileInputs.cache
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\obj\Debug\netcoreapp3.1\labweek4.dll
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\obj\Debug\netcoreapp3.1\labweek4.pdb
+C:\Users\murta\OneDrive - MMU\ALG and Data Structure\Assesment\ExcerciseWeek4TaskA\labweek4\obj\Debug\netcoreapp3.1\labweek4.genruntimeconfig.cache
