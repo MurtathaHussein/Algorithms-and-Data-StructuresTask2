@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExerciseWeek2TaskB/1.0.0": {
+        "runtime": {
+          "ExerciseWeek2TaskB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciseWeek2TaskB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
